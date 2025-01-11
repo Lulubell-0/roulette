@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>루루벨 룰렛 확률</title>
+    <script type="text/javascript">
+        // 페이지가 로드되면 자동으로 리다이렉트
+        window.onload = function() {
+            window.location.href = "https://weflab.com/user/lOPU2suUlmRr";
+        };
+    </script>
+</head>
+<body>
+    <h1>잠시만 기다려 주세요...</h1>
+    <p>자동으로 룰렛확률 페이지로 이동합니다.</p>
+</body>
+</html>
